@@ -1,0 +1,4 @@
+[submodule "plugin/cdnforward"]
+	path = plugin/cdnforward
+	url = https://github.com/sadeepa24/cdnforward.git
+	branch = coredns_run
